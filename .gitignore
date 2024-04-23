@@ -1,0 +1,48 @@
+# OS and Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.project
+.idea/
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Build files
+build/
+dist/
+out/
+*.log
+
+# Environment-specific files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Cache and compiled files
+.cache/
+*.log
+*.bak
+*.pyc
+
+# Compiled binary files
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Image thumbnails
+*.thumb
+
+# Miscellaneous
+*.bak
